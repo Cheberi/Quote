@@ -1,16 +1,19 @@
 .myQuote{
-    padding: 10px;
+    padding: 20px;
   }
   
   .container-fluid{
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(10, 117, 15);
     font-family: 'Times New Roman', Times, serif;
     font-size: 70px;
-
+    padding: 20px;
   }
 
   .container{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
     text-align: center;
     align-items: center;
   }
